@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'RedHatDisplay-BoldItalic';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-BoldItalic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RedHatDisplay-Bold';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-Bold.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RedHatDisplay-ExtraBoldItalic';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-ExtraBoldItalic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RedHatDisplay-ExtraBold';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-ExtraBold.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RedHatDisplay-LightItalic';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-LightItalic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RedHatDisplay-Light';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-Light.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RedHatDisplay-MediumItalic';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-MediumItalic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RedHatDisplay-Medium';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-Medium.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RedHatDisplay-Regular';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-Regular.otf') format('opentype');
+  font-weight: 600;
+  font-style: expanded;
+}
+@font-face {
+  font-family: 'RedHatDisplay-semiBoldItalic';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-semiBoldItalicItalic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'RedHatDisplay-SemiBold';
+  src: url('https://static.fintonic.com/fonts/redhat-display/RedHatDisplay-SemiBold.otf') format('opentype');
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Fintonic préstamos",
+  "short_name": "Fintonic préstamos",
+  "description": "Buscamos, negociamos y comparamos tu préstamo TOP entre las entidades del momento.",
+  "background_color": "#ffffff",
+  "theme_color": "#FE666B",
+  "orientation": "portrait",
+  "fingerprints": false,
+  "inject": false,
+  "ios": {
+    "apple-mobile-web-app-title": "Fintonic préstamos",
+    "apple-mobile-web-app-status-bar-style": "#FE666B"
+  },
+  "includeDirectory": true,
+  "publicPath": "..",
+  "icons": [
+    {
+      "src": "https://static.fintonic.com/favicon/android-icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://static.fintonic.com/favicon/android-icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://static.fintonic.com/favicon/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://static.fintonic.com/favicon/favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
